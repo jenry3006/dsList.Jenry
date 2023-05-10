@@ -1,4 +1,4 @@
-package com.devsuperiorjenry.dslist;
+package com.jenry.dslist;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
